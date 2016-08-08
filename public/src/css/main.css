@@ -1,0 +1,39 @@
+*{
+	margin:0;
+	
+}
+
+.container{
+	padding: 15px;
+	margin: 50px auto;
+	width: 800px;
+	background-color: #DBDBDB;
+	border: 1px solid black;
+	border-radius: 1px;
+}
+
+.container input{
+	width: 550px;
+	border-radius: 1px;
+	margin-top:15px;
+	padding: 5px;
+}
+
+.container button{
+	background-color: #9C99C2;
+	border-radius: 3px;
+	padding: 8px;
+}
+
+.container button:hover{
+	background-color: #8A86B8;
+}
+
+.shorten {
+	margin-top: 20px;
+}
+
+.shorten a{
+	text-decoration: none;
+	color: green;
+}
